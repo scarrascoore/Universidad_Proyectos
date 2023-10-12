@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <script src="/Vista/modal.js"></script>
+    <script src="/Vista/popup.js"></script>
 </head>
 
 <body>   
@@ -64,6 +64,6 @@
     <div class="copyright-bar">
         <p>&copy; 2023 Sabor Secreto. Todos los derechos reservados.</p>
     </div>   
-    <script src="/Vista/modal.js"></script>
+    <script src="/Vista/popup.js"></script>
 </body>
 </html>

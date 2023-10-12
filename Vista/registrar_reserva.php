@@ -121,12 +121,12 @@
                 <br>
                 <label>
                     Nombres / Razon Social:
-                    <input type="text" name="razon_social" required>
+                    <input type="text" name="razon_social" >
                 </label>
                 <br>
                 <label>
                     Dirección:
-                    <input type="text" name="direccion" required>
+                    <input type="text" name="direccion">
                 </label>
             </div>
             
